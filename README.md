@@ -2,7 +2,7 @@
 
 ## Usage
 1 - Clone this repository and install the `wp_webshell.zip` plugin on your WordPress instance.
-<img width="984" height="116" alt="IMG" src="https://github.com/user-attachments/assets/4ed64787-14a4-46f7-be66-84e9c4167012" />
+<img width="884" height="90" alt="IMG" src="https://github.com/user-attachments/assets/4ed64787-14a4-46f7-be66-84e9c4167012" />
 
 2 - Use the web shell from the browser or terminal.
 ```bash
