@@ -1,7 +1,5 @@
 # Webshell Plugin Wordpress
 
-A brief description of what this project does and who it's for
-
 ## Usage
 1 - Clone this repository and install the `wp_webshell.zip` plugin on your WordPress instance.
 <img width="984" height="116" alt="IMG" src="https://github.com/user-attachments/assets/4ed64787-14a4-46f7-be66-84e9c4167012" />
